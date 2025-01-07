@@ -12,5 +12,5 @@ El propósito principal de este sitio web es proporcionar una plataforma donde s
 
 Para cualquier pregunta o comentario, puede contactar al autor del proyecto a través de:
 
-- **Correo electrónico**: [jhingal3010@ieszaidinvergeles.org]
+- **Correo electrónico**: jhingal3010@ieszaidinvergeles.org
 - **GitHub**: [https://github.com/jhingalv](https://github.com/jhingalv)
