@@ -14,3 +14,4 @@ Para cualquier pregunta o comentario, puede contactar al autor del proyecto a tr
 
 - **Correo electrónico**: jhingal3010@ieszaidinvergeles.org
 - **GitHub**: [https://github.com/jhingalv](https://github.com/jhingalv)
+- **Sitio Web**: [https://jhingalv.github.io](https://jhingalv.github.io)
