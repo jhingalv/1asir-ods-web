@@ -1,5 +1,3 @@
-# jhingalv.github.io
-
 ## Descripción
 
 Este repositorio contiene el código fuente de un sitio web personal creado con fines educativos. El sitio sirve como portafolio para mostrar diversos proyectos de aprendizaje, experimentos y recursos.
